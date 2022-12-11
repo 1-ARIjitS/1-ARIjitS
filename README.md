@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @1-ARIjitS 
-- 👀 I’m interested in ANDROID APP DEVELOPEMENT,MACHINE LEARNING AND DATA SCIENCE
-- 🌱 I’m currently learning ANDROID
-- 💞️ I’m looking to collaborate on ANDROID AND MACHINE LEARNING INTEGRATED PROJECTS
-- 📫 How to reach me 
-YOU CAN REACH ME ON <br> LINKEDIN :-https://www.linkedin.com/in/arijit-samal1 <br> PHONE :- +91 7008945157<br>
+- 👋 Hi, I’m ARIJIT (@1-ARIjitS) 
+- 👀 I’m interested in MACHINE LEARNING, DEEP LEARNING, DATA SCIENCE AND ANDROID APP DEVELOPEMENT
+- 🌱 I’m currently exploring DEEP LEARNING
+- 💞️ I’m looking to collaborate on ANDROID, MACHINE LEARNING, DEEP LEARNING OR ANY INTEGRATED PROJECTS
+- 📫 YOU CAN REACH ME ON <br> 
+-> LINKEDIN :-https://www.linkedin.com/in/arijit-samal1 <br> 
+-> PHONE :- +91 7008945157 <br>
+-> EMAIL- arijits19@iiserb.ac.in <br>
 
-Here are my stats<br>
+
+- Here are my stats<br>
 
 ![Arijit's github stats](https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true)
 <!---
