@@ -13,7 +13,7 @@
 -> EMAIL- arijits19@iiserb.ac.in <br>
 
 
-- Here are my stats<br>
+- Here are my STATS-<br>
 
 
 ![Arijit's github stats](https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true&theme=radical)
