@@ -18,12 +18,12 @@
 
 <!-- ![Arijit's github stats](https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true&theme=radical) -->
 <div align="center">
-<!-- <a href="https://github.com/1-ARIjitS/1-ARIjitS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-ARIjitS&langs_count=3&theme=radical" alt="Arijit's Top languanges" />
-</a> -->
+<a href="https://github.com/1-ARIjitS/1-ARIjitS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-ARIjitS&langs_count=3&theme=radical" alt="Arijit's Top languanges" height="250"/>
+</a>
 
 <a href="https://github.com/1-ARIjitS/1-ARIjitS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Arijit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Arijit's GitHub Stats" height="250" />
 </a>
 </div>  
 <!---
