@@ -9,8 +9,8 @@
 - 💞️ I’m looking to collaborate on ANDROID, MACHINE LEARNING, DEEP LEARNING OR ANY INTEGRATED PROJECTS
 - 📫 YOU CAN REACH ME ON- <br><br> 
 -> LINKEDIN :-https://www.linkedin.com/in/arijit-samal1 <br><br> 
--> PHONE :- +91 7008945157<br><br>
--> EMAIL- arijits19@iiserb.ac.in <br>
+-> PHONE :- (+91) 7008945157<br><br>
+-> EMAIL-ID :- arijits19@iiserb.ac.in <br>
 
 
 - Here are my STATS-<br>
