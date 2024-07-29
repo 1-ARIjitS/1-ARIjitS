@@ -10,7 +10,7 @@
 - 📫 YOU CAN REACH ME ON- <br><br> 
 -> ✨LINKEDIN :-https://www.linkedin.com/in/arijit-samal1 <br><br> 
 -> ✨PHONE :- (+91) 7008945157/ (+32) 493139020<br><br>
--> ✨EMAIL-ID :- samalarijit.01@gmail.com / arijits19@iiserb.ac.in / arijit.samal@ulb.be / arijit.samal@estudiantat.upc.edu <br>
+-> ✨EMAIL-ID :- samalarijit.01@gmail.com / arijits19@iiserb.ac.in / arijit.samal@ulb.be / arijit.samal@student-cs.fr <br>
 
 
 - Here are my ✨ STATS-<br>
