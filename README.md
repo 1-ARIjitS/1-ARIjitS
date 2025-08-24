@@ -15,7 +15,7 @@ I’m a results‑driven data scientist specializing in big data, machine learni
 
 - Erasmus Mundus BDMA scholar (ULB → UPC → CentraleSupélec)
 - Bachelors in Electrical Engineering and Computer Science (EECS), IISER Bhopal
-- Data Science Intern @ CFM (multi‑agent systems for trading data pipelines)
+- Data Science @ CFM (Building multi‑agent systems for fixing alerts in data pipelines)
 
 ## Skills
 <p align="left">
