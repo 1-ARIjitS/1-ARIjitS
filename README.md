@@ -83,7 +83,7 @@ I’m a results‑driven data scientist specializing in big data, machine learni
   <a href="https://scholar.google.com/citations?user=ePzEMRMAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" /></a>
   <a href="https://devpost.com/arijits19"><img src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" /></a>
   <a href="mailto:arijit.samal@student-cs.fr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="tel:+33755028593"><img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/917008945157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
 </p>
 
 
