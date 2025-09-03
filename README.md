@@ -70,9 +70,6 @@ I’m a results‑driven data scientist specializing in big data, machine learni
       <img src="https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=1-ARIjitS&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-ARIjitS&layout=compact&langs_count=10&hide=jupyter%20notebook,html,smarty&theme=radical" alt="Top Languages" />
     </td>
   </tr>
