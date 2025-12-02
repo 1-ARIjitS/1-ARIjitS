@@ -63,19 +63,6 @@ I’m a results‑driven data scientist specializing in big data, machine learni
   <img src="https://img.shields.io/badge/OrientDB-2D72B8?logo=databricks&logoColor=white" />
 </p>
 
-## GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=1-ARIjitS&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-ARIjitS&layout=compact&langs_count=10&hide=jupyter%20notebook,html,smarty&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
 ## Connect
 <p align="left">
   <a href="https://linkedin.com/in/arijit-samal1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
