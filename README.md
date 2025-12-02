@@ -4,7 +4,7 @@
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <p>
     <a href="https://arijitportfolio-sigma.vercel.app/"><b>Portfolio</b></a> •
-    <a href="https://drive.google.com/file/d/1nJmliSy7VRZxLZOzndwtNvbJM79sbB4E/view?usp=sharing">Resume</a> •
+    <a href="[https://drive.google.com/file/d/1nJmliSy7VRZxLZOzndwtNvbJM79sbB4E/view?usp=sharing](https://drive.google.com/file/d/1Vx5WB8NaX-69roA3Zu8uzo-bqAloD__X/view?usp=sharing)">Resume</a> •
     <a href="mailto:arijit.samal@student-cs.fr">Email</a> •
     <a href="tel:+33755028593">+33 07 55 02 85 93</a>
   </p>
